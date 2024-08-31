@@ -8,7 +8,7 @@ import cv2
 dataset ="dataset"
 
 embeddingFile="output/embedding.pickle" # initialize the file
-embeddingModel="openface_nn4.small2.v1.t7" # initialize the model pytorch
+embeddingModel="openface-nn4.small2.v1.t7" # initialize the model pytorch
 
 #initialize the caffe model for face modeling 
 prototxt ="model/deploy.prototxt"
