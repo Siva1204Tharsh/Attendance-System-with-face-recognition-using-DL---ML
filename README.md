@@ -16,14 +16,18 @@ Support vector machines (SVM)
 • Support vector machines (SVMs) are powerful yet flexible supervised 
 machine learning algorithms which are used both for classification and 
 regression.
+
 • The goal of SVM is to divide the datasets into classes to find a 
 maximum marginal hyperplane (MMH).
+
 • Support Vectors − Datapoints that are closest to the hyperplane is 
 called support vectors. Separating line will be defined with the help of 
 these data points.
+
 • Hyperplane − As we can see in the above diagram, it is a decision plane 
 or space which is divided between a set of objects having different 
 classes.
+
 • Margin − It may be defined as the gap between two lines on the closet 
 data points of different classes. It can be calculated as the 
 perpendicular distance from the line to the support vectors. Large 
@@ -31,5 +35,5 @@ margin is considered as a good margin and small margin is considered
 
 
 
-
+## Project Working Flow
 ![image](https://github.com/user-attachments/assets/824834eb-98a6-46c3-b3af-f6ecfe52efd3)
